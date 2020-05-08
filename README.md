@@ -1,3 +1,9 @@
+# Please Read
+I cannot stress this enough, if you are only using the community version of Powershell UniversalDashboard please do yourself a
+massive favour. Go buy a copy of the Enterprise edition of UniversalDashboard.  Not only does this help the amazing developer
+of this product keep making this product even better, you also get a lot more features in the Enterprise edition. So go get your 
+Enterprise copy today!
+
 # Twitter-Components
 6 different Twitter components for UniversalDashboard based on https://www.npmjs.com/package/react-twitter-widgets
 
